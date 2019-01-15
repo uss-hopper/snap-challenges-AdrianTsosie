@@ -70,6 +70,10 @@
           <option name="url" value="git@github.com:bcarroll87120/about-brandon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:AdrianTsosie/snap-challenge-0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\USER\Desktop\bootcamp\git" />
