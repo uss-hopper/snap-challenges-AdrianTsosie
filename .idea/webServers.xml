@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5308b222-28e5-48fb-944f-365d31161675" name="filter-array-remove" url="http://bootcamp-coders.cnm.edu/~atosie11/filter-array-remove">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/atsosie11?public_html/filter-array-remove" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
